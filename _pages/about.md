@@ -9,40 +9,34 @@ weight:    90
 excerpt:   A simple description for a simple being.
 ---
 
-Studying towards MSc in Theoretical Physics at The University of Edinburgh with a focus on quantum field theory and lattice field theory. I spend most of my time these days coding or doing maths.
+After finishing with top of the year in the Mathematics and Economics Departments with my Bsc Financial Mathematics degree I am strating the MSc Mathematical and Computational Finance programme at Oxford.
 
-**key languages** `python` `mathematica` `Fortran` `VBA`
+**key languages** `Python` `Matlab` `R` `VBA` `C++`
 
 ---
 
 ## Projects
 
-I tend to keep busy. Here's a list of some of the things I have been up to.
+Here are some projects I have completed for my curricula, dissertation and for self-interest.
 
 #### Current
-
- - Deep Learning (DBNs/CNNs) for Weather Modelling `python`
- - Further develop Hybrid Monte Carlo library `python`
- - Basic algo. trading models: $\mu$ revert, tech. analysis, $\sigma$ target `python`
- - Build a half pipe `plywood`
+ - Support Vector Machines: Gaussian kernel for SVM, parameter settings `Matlab`
+ - Regularized Linear Regression and Bias v.s. Variance: regularized linear regression cost function, polinomial feature space, learnign curve `Matlab`
+ - Neural Networks Learning: random initialised weights, neural network cost function `Matlab`
 
 #### Previous
-
- - Autocorrelations in Generalised Hybrid Monte Carlo (HMC) `python` `Mathematica` `C++`
- - Basic algo. trading models: momentum, historic pattern recognition `python`
- - Web Scraping: recursive crawlers, PDF parsing, custom APIs `python` `SQL` `regex` `xpath`
- - Time-Series forecasting: ARIMA, X11, X13, various others `python`
- - GARCH, E-GARCH using various random distributions `Fortran`
- - BFGS solver `Fortran`
- - Genetic Algorithm `Fortran`
- - Binomial pricing model `Fortran`
- - Neural Nets `Fortran`
+ - Benchmarked the Black-Scholes Cox-Ross-Rubinstein and Monte Carlo methods for pricing options `Python` `Matlab`
+ - Greeks (finance): Calculated out all first, second and some thrid order Greeks and plotted them in a 3D surface `Matlab` `Python` 
+ - Built algorithmic trading platform: used bollinger bands, $\mu$ reversion and simple moving average models `Python`
+ - Multi-class Classifcation and Neural Networks: logistic regression cost function, one-vs-all multi-class classifier, neural network prediction `Matlab`
+ - Logistic Regression: sigmoid function, cost function, logistic regression prediction `Matlab`
+ - Linear Regressions: gradient descent method for multiple variables, normalisations `Matlab`
+ - Time-Series forecasting: AR, MA, ARMA, ARIMA `R`
+ - Binomial pricing model `Python`
 
 ---
 
 ## Random
-I drink lots of coffee but don't really like it. Top speed on a snowboard is just under 80mph. I set my tabs to four spaces. Favourite beer is Guinness.
+Played in the Hungarian premier basketball league. Love all types of sports, if I am not home you can probably find me at the library or at the nearest sports centre.
 
-> Physics is like sex: sure, it may give some practical results, but that's not why we do it
->
-> <cite>Richard Feynman</cite>
+> Mathematics 􀀀referred as `the language of our universe`is perhaps mankind's greatest achievement. It is omnipresent and omnipotent, capable of predicting the weather, describing the event horizon of a black hole or modeling Fnancial markets.
