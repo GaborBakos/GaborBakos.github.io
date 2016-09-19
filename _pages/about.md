@@ -39,4 +39,4 @@ Here are some projects I have completed for my curricula, dissertation and for s
 ## Random
 Played in the Hungarian premier basketball league. Love all types of sports, if I am not home you can probably find me at the library or at the nearest sports centre.
 
-> Mathematics 􀀀referred as `the language of our universe`is perhaps mankind's greatest achievement. It is omnipresent and omnipotent, capable of predicting the weather, describing the event horizon of a black hole or modeling Fnancial markets.
+> Mathematics, referred as `the language of our universe`is perhaps mankind's greatest achievement. It is omnipresent and omnipotent, capable of predicting the weather, describing the event horizon of a black hole or modeling Fnancial markets.
