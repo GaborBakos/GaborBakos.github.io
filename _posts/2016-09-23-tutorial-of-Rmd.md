@@ -1,5 +1,10 @@
-\maketitle
-Pre-requisites
+---
+layout: post
+title:  "Finding smallest number without remainder from 1 to n"
+date:   2016-06-11 03:43:45 +0700
+categories: [python]
+author: Gabor, Project Euler
+---
 ==============
 
 R
