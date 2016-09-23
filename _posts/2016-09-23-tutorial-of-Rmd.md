@@ -6,7 +6,7 @@ categories: [python]
 author: Gabor, Project Euler
 ---
 ==============
-
+###Pre-Requisites
 R
 -
 
