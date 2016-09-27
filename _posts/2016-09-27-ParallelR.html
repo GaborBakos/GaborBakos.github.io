@@ -144,12 +144,12 @@ y &lt;- gl(2, 50)</code></pre>
 <pre class="r"><code>runtimerf &lt;- system.time(foreach(ntree=rep(1000, 10), .combine=combine) %do% randomForest(x, y, ntree=ntree))
 runtimerf</code></pre>
 <pre><code>##    user  system elapsed 
-##    1.41    0.19    1.60</code></pre>
+##    1.33    0.14    1.47</code></pre>
 <p>Now the same task but on 10 cores:</p>
 <pre class="r"><code>runtimerf &lt;- system.time(foreach(ntree=rep(1000, 10), .combine=combine, .packages='randomForest') %dopar% randomForest(x, y, ntree=ntree))
 runtimerf</code></pre>
 <pre><code>##    user  system elapsed 
-##    0.58    0.19    0.93</code></pre>
+##    0.66    0.16    1.00</code></pre>
 </div>
 <div id="parallel-apply" class="section level2">
 <h2>Parallel Apply</h2>
@@ -207,7 +207,7 @@ ptime &lt;- system.time({
    })[3]
 ptime</code></pre>
 <pre><code>## elapsed 
-##   20.58</code></pre>
+##   20.22</code></pre>
 <p>and the same parallel on 10 cores</p>
 <pre class="r"><code>x &lt;- iris[which(iris[,5] != &quot;setosa&quot;), c(1,5)]
 trials &lt;- 10000
@@ -220,7 +220,7 @@ ptime &lt;- system.time({
 })[3]
 ptime</code></pre>
 <pre><code>## elapsed 
-##    3.82</code></pre>
+##    4.02</code></pre>
 </div>
 <div id="conclusion" class="section level2">
 <h2>Conclusion</h2>
