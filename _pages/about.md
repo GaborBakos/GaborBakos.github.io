@@ -10,7 +10,7 @@ excerpt:   A simple description for a simple being.
 ---
 My name is Gabor Bakos, I am currently an MSc Mathematical and Computational Finance student at the University of Oxford. 
 I have recently finished my MSc thesis on Reinforcement Learning in the Algorithmic Trading Domain and will soon be graduating from Oxford. 
-As an Undergraduate I finished top of the year in the Mathematics and Economics Departments with the Bsc Financial Mathematics degree.
+As an Undergraduate I had a cumulative grade of 91% in BSc Financial Mathematics from the University of Surrey.
 
 **key languages** `Python` `R` `C++` `Matlab` `VBA`
 
